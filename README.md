@@ -7,13 +7,13 @@ Esta es una API simple construida con Node.js y Express.js. Proporciona endpoint
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/TuUsuario/nombre-del-repositorio.git
+   git clone https://github.com/Malibu54/API.git
 
 
 2. Navega hasta la carpeta del proyecto:
    
    ```bash
-   cd nombre-del-repositorio
+   cd API
 
 3. Instalar las dependencias utilizando npm:
    
