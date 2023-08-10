@@ -27,7 +27,7 @@ Esta es una API simple construida con Node.js y Express.js. Proporciona endpoint
     ```bash
     node index.js
 
-2. Abri tu navegador web o utiliza herramientas como curl o Postman para interactuar con la API.
+2. Abri tu navegador web en http://localhost:3000/ o utiliza herramientas como curl o Postman para interactuar con la API.
 
 ## Endpoints
 
